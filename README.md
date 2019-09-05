@@ -1,2 +1,2 @@
 # Rummy-card-game
-card game
+Rummy card game using Pygame
